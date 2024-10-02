@@ -1,4 +1,4 @@
-# CCS811
+#### CCS811
 Arduino library for the CCS811 digital gas sensor for monitoring indoor air quality from ScioSense.
 
 There is a [Spanish guide](docs/Procedimiento_para_la_actualización_de_firmwareCCS811_1.1.pdf).
